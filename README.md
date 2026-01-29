@@ -1,5 +1,10 @@
 # ai-rate-limit
 
+[![npm version](https://img.shields.io/npm/v/ai-rate-limit.svg)](https://www.npmjs.com/package/ai-rate-limit)
+[![npm downloads](https://img.shields.io/npm/dm/ai-rate-limit.svg)](https://www.npmjs.com/package/ai-rate-limit)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Generate rate limiting configurations using AI.
 
 ## Install
