@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/ai-rate-limit.svg)](https://www.npmjs.com/package/ai-rate-limit)
 [![npm downloads](https://img.shields.io/npm/dm/ai-rate-limit.svg)](https://www.npmjs.com/package/ai-rate-limit)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-rate-limit)](https://github.com/lxgic-studios/ai-rate-limit/stargazers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+
 
 
 Generate rate limiting configurations using AI.
