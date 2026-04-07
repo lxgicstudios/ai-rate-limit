@@ -1,5 +1,5 @@
 {
-  "name": "ai-rate-limit",
+  "name": "@lxgicstudios/ai-rate-limit",
   "version": "1.0.0",
   "description": "AI-powered rate limiter setup - API throttling with GPT-optimized rules",
   "main": "dist/index.js",
