@@ -24,7 +24,7 @@ solve specific development challenges with AI-powered insights.
 
 </div>
 
-> AI-powered rate limiter setup - API throttling with GPT-SEO-optimized optimized rules.
+> AI-powered rate limiter setup - API throttling with GPT-SEO-optimized rules.
 
 ## 🚀 Features
 

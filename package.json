@@ -16,7 +16,7 @@
     "ora": "^5.4.1",
     "glob": "^10.3.0"
   },
-  "description": "AI-powered rate limiter setup - API throttling with GPT-SEO-optimized optimized rules",
+  "description": "AI-powered rate limiter setup - API throttling with GPT-SEO-optimized rules",
   "devDependencies": {
     "typescript": "^5.6.0",
     "@types/node": "^22.0.0"
