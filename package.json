@@ -40,7 +40,9 @@
     "ddos-protection",
     "middleware",
     "page-speed",
-    "site-architecture"
+    "site-architecture",
+    "seo-optimized",
+    "clawdbot"
   ],
   "license": "MIT",
   "main": "dist/index.js",
