@@ -8,7 +8,7 @@
     "ai-rate-limit": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/npm-tools/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-rate-limit/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -32,7 +32,7 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-rate-limit",
+  "homepage": "https://github.com/LXGIC-Studios/ai-rate-limit",
   "keywords": [
     "rate-limiting",
     "throttling",
@@ -42,7 +42,19 @@
     "page-speed",
     "site-architecture",
     "seo-optimized",
-    "clawdbot"
+    "clawdbot",
+    "ai",
+    "anthropic",
+    "automation",
+    "claude",
+    "cli",
+    "copilot",
+    "cursor",
+    "developer-tools",
+    "devtools",
+    "gpt",
+    "npx",
+    "openai"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -53,8 +65,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/npm-tools.git",
-    "directory": "ai-rate-limit"
+    "url": "git+https://github.com/LXGIC-Studios/ai-rate-limit.git"
   },
   "scripts": {
     "build": "tsc"
